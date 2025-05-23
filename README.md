@@ -27,15 +27,13 @@ Sigue estos sencillos pasos para tener la Pokedex App funcionando en tu entorno 
 1.  **Clona el Repositorio:**
   Abre tu terminal o línea de comandos y ejecuta:
   ```bash
-  git clone https://github.com/tu-usuario/pokedex-app.git
+  git clone https://github.com/Sebas1124/pokedex_animated_useFetch
   ```
-  *(Reemplaza `https://github.com/tu-usuario/pokedex-app.git` con la URL real del repositorio del proyecto si está en GitHub u otro servicio similar. Si solo tienes los archivos localmente, puedes omitir este paso y navegar directamente a la carpeta del proyecto.)*
 
 2.  **Navega al Directorio del Proyecto:**
   ```bash
-  cd pokedex-app
+  cd pokedex_animated_useFetch
   ```
-  *(Reemplaza `pokedex-app` con el nombre real de la carpeta del proyecto.)*
 
 3.  **Instala las Dependencias:**
   Usa npm:
