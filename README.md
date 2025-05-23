@@ -49,13 +49,13 @@ Sigue estos sencillos pasos para tener la Pokedex App funcionando en tu entorno 
   Para ejecutar la aplicación en modo de desarrollo:
   Usa npm:
   ```bash
-  npm start
+  npm run dev
   ```
   O si prefieres yarn:
   ```bash
-  yarn start
+  yarn run dev
   ```
-  Esto generalmente abrirá la aplicación en tu navegador web predeterminado en una dirección como `http://localhost:3000` (el puerto puede variar).
+  Esto generalmente abrirá la aplicación en tu navegador web predeterminado en una dirección como `http://localhost:5173` (el puerto puede variar).
 
 ## 🛠️ Uso
 
